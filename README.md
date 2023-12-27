@@ -1,5 +1,5 @@
-# 🙋🏻‍♂️
-🙋🏻‍♂️ Dr. Alwin Simon M - MERN Full Stack Developer based in Kerala, India.<br>
+# Dr. Alwin Simon M
+🤖 MERN Full Stack Developer based in Kerala, India.<br>
 💡 Transitioned from Pharma to Tech - specializing in scalable applications.<br>
 🚀 Proficient in JavaScript, NodeJs, ExpressJs and MongoDB for impactful projects.<br>
 ♾️ With a background in Pharmacy, I'm committed to continuous learning in Tech.<br>
